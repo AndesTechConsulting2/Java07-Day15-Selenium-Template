@@ -25,7 +25,7 @@ public class AppTest2
     public void shouldAnswerWithTrue()
     {
         wd = new FirefoxDriver();
-        wd.get("http://leta.ru");
+        wd.get("http://lenta.ru");
         assertTrue( true );
     }
 

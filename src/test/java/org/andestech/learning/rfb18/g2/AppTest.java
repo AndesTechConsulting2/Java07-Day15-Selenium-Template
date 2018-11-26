@@ -24,7 +24,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         wd = new ChromeDriver();
-        wd.get("http://leta.ru");
+        wd.get("http://lenta.ru");
         assertTrue( true );
     }
 

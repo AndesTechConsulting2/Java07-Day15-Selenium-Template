@@ -26,7 +26,7 @@ public class AppTest3
     public void shouldAnswerWithTrue()
     {
         wd = new InternetExplorerDriver();
-        wd.get("http://leta.ru");
+        wd.get("http://lenta.ru");
         assertTrue( true );
     }
 
