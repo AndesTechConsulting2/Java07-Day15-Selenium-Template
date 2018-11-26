@@ -23,7 +23,7 @@ public class AppTest3
     }
 
     @Test
-    public void shouldAnswerWithTrue()
+    public void testCaseIE01()
     {
         wd = new InternetExplorerDriver();
         wd.get("http://lenta.ru");

@@ -22,7 +22,7 @@ public class AppTest2
     }
 
     @Test
-    public void shouldAnswerWithTrue()
+    public void testCaseFFox01()
     {
         wd = new FirefoxDriver();
         wd.get("http://lenta.ru");
